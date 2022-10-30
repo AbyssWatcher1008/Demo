@@ -5,8 +5,11 @@ Strawberries
 Apples
 
 MEAT
-sausages
-
+Sausages
+Bacon
+Lamb
+Beef
+Rabbit
 
 DAIRY
 
